@@ -1,0 +1,1094 @@
+
+html{
+    scroll-behavior: smooth;
+    
+}
+body{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+ 
+  
+
+/* div.so{
+    
+    background-color: rgb(201, 50, 50);
+    text-align: right;
+    text-decoration: none;
+    padding: 6px 12px ;
+    color: #1e1d1d50;
+    margin: 0 100px 0 0;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-image: url(backgound.jpg);
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.251);
+    position: relative;
+    overflow: hidden;
+} */
+
+.nav{
+   position: relative;
+   right: 50px;
+    position: fixed;
+    top: 35px; 
+    
+    
+}
+
+
+
+
+div.king{
+    background-color: rgba(0, 0, 0, 0.64);
+    height: 700px;
+    width: 100%;
+    text-align: right;
+    margin: 0 100px 0 0; 
+    background-attachment: fixed; 
+    background-image: url(images/backgound.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-blend-mode: darken;
+    overflow: hidden; 
+    padding: 0px 60px 0px 0px; 
+    
+}
+
+
+
+a{
+    padding: 6px 12px ;
+    text-decoration: none;
+    font-family: Courier,;
+    font-weight: 300;
+    color: aliceblue;
+    font-weight: bolder; 
+    overflow: hidden; 
+    margin: 5px 10px 0 0;  
+    
+}
+
+a:hover{
+    border-bottom:2px solid #ea6981;
+
+    text-decoration: none;
+
+}
+a.firm{
+    border-bottom: 2px solid #ea6981;
+}
+
+a.do{
+    padding: 0 25px 0 0;
+    position: relative;
+    right: 80px;
+    margin: 100px 10px 0 0;
+    font-weight: 500;
+    font-family: sans-serif;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    left: 750px;
+    top: 50px;
+    height: 70px;
+    overflow: hidden;
+    
+   
+}
+
+
+
+h2.eluwa{
+    text-align: left;
+    font-size: 30px;
+    margin:0 0 0 95px;
+    font-size: 29px;
+    font-weight: 500px;
+    font-family: sans-serif;
+    font-weight: 500;
+    position: relative;
+    top: 25px;
+    color: white;   
+}
+
+h2#video{
+    position: fixed;
+    
+}
+
+div.hello{
+    text-align: center;
+    margin-top: 220px;
+    position: relative;
+    bottom: 50px;
+}
+
+div.pin{
+    text-align: center;
+    font-family: sans-serif,italic;
+    position: relative;
+    bottom: 120px;
+}
+
+a.omo{
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 50;
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 50px;
+
+    
+}
+
+a.omo:hover:hover{
+    background-color: rgba(194, 13, 43, 0.888);
+    box-shadow: 0px 0px 40px;
+    background-size: cover;
+
+}
+
+a.akin{
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 50;
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 50px;
+    right: 3 0px;
+
+}
+a.akin:hover{
+    background-color: rgba(194, 13, 43, 0.888);
+    box-shadow: 0px 0px 40px;
+}
+
+h3.am{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    border: 2px none black;
+    width: 100px;
+    position: relative;
+    left: 620px;
+    padding: 8px;
+    border-radius: 20px;
+    background-color: rgba(243, 240, 240, 0.582);
+    opacity: 0.5;
+}
+
+h1.benson{
+    color: white;
+    font-family:sans-serif;
+    font-size: 43px;
+    font-weight: 500;
+}
+p.talented{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 50px;
+    font-weight: 500;
+
+}
+div.house{
+    text-align: center;
+}
+
+h2.about{
+    border: 2px none rgba(255, 192, 203, 0.644);
+    width: 100px;
+    text-align: center;
+    border-radius: 20px;
+    margin:60px 0 0 600px;
+    background-color: rgba(255, 192, 203, 0.284);
+    color: rgba(164, 27, 50, 0.493);
+    font-size: 14px;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding: 7px;
+    
+
+}
+
+b.me{
+    color: red;
+    
+}
+p.obina{
+    text-align: center;
+    word-spacing: 5px;
+    font-size: 20px;
+    margin: 75px;
+    
+}
+
+div.room{
+    text-align: center;
+}
+
+h2.services{
+    border: 2px none rgba(255, 192, 203, 0.644);
+    width: 100px;
+    text-align: center;
+    border-radius: 20px;
+    margin:140px 0 0 600px;
+    background-color: rgba(255, 192, 203, 0.284);
+    color: rgba(164, 27, 50, 0.493);
+    font-size: 14px;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding: 7px;
+    
+    
+    
+}
+b.ser{
+    color: red;
+    
+}
+
+
+div.consultant{
+    border: 1px none red;
+    width: 150px;
+    height: 350px;
+    background-color: white;
+    padding: 50px;
+    float: right;
+    margin-right: 75px;
+    border-radius: 6px;
+    box-shadow: whitesmoke 3px 3px 15px 15px ;
+
+}
+
+h2.consult{
+    margin-top: 100px;
+    text-align: center;
+
+}
+p.provide{
+    text-align: center;
+    text-indent: 1.5em;
+    word-spacing: 6px;
+    font-size: 17px;
+    
+    
+}
+
+
+
+div.design{
+    border: 1px none red;
+    width: 150px;
+    height: 350px;
+    background-color: white;
+    padding: 50px;
+    float: right;
+    margin-right: 75px;
+    border-radius: 6px;
+    box-shadow: whitesmoke 3px 3px 15px 15px ;
+
+}
+div.design{
+    position: relative;
+    overflow: hidden;
+
+}
+
+div.overlay00{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #ea6981;
+    transition: 10s ease ;
+    overflow: hidden;
+    border: 2px solid blue;
+    overflow: hidden;
+    
+    
+    
+    
+}
+
+div.overlay00:hover{
+    height: 50px;
+
+    
+}
+
+
+i#cross{
+    position: relative;
+    top: 10px;
+    font-size: 40px;
+    left: 55px;
+    color: rgb(237, 19, 55);
+}
+i#true{
+    position: relative;
+    top: 10px;
+    font-size: 40px;
+    left: 55px;
+    color: rgb(237, 19, 55);
+    
+
+}
+
+i#globe{
+    position: relative;
+    top: 10px;
+    font-size: 40px;
+    left: 55px;
+    color: rgb(237, 19, 55);
+}
+
+i#develop{
+    position: relative;
+    top: 10px;
+    font-size: 40px;
+    left: 55px;
+    color: rgb(237, 19, 55);
+}
+
+h2.web{
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+p.foot{
+    text-align: center;
+    
+    text-indent: 1.5em;
+    word-spacing: 6px;
+    font-size: 17px;
+    
+
+}
+
+div.ui{
+    border: 1px none red;
+    width: 150px;
+    height: 350px;
+    background-color: white;
+    padding: 50px;
+    float: right;
+    margin-right: 75px;
+    border-radius: 6px;
+    box-shadow: whitesmoke 3px 3px 15px 15px ;
+
+}
+
+h2.ui-ux{
+    margin-top: 100px;
+    text-align: center;
+}
+
+p.mobile{
+    text-align: center;
+    font-feature-settings: "liga";
+    text-indent: 1.5em;
+    word-spacing: 6px;
+    font-size: 17px;
+    
+
+}
+
+h2.graphic{
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+p.help{
+    text-align: center;
+    font-feature-settings: "liga";
+    word-spacing: 6px;
+    font-size: 17px;
+}
+
+div.image1{
+    background-image: url(images/background1.jpg);
+    height: 250px;
+    margin-top: 500px ;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-attachment: fixed;
+    overflow: hidden;
+
+}
+
+div.image{
+    background-color: rgba(0, 0, 0, 0.712);
+    height: 155px;
+    text-align: center;
+    color: white;
+    padding: 50px;
+    
+}
+
+h1.action{
+    font-size: 17px;
+    font-family: sans-serif;
+    
+}
+
+p.today{
+    font-size: 17px;
+    font-family: sans-serif;
+    
+
+}
+
+h1.to{
+    font-size: 22px;
+    font-family: sans-serif;
+    border: 1px solid white;
+    width: 200px;
+    margin-left: 550px;
+    border-radius: 20px;
+    padding: 6px;   
+}
+
+h1.to:hover{
+    background-color: rgba(194, 13, 43, 0.747);
+    box-shadow: 0px 0px 25px;
+
+}
+
+h3.work{
+    text-align: center;
+    border: 1px none black;
+    width: 75px;
+    margin-left: 600px;
+    border-radius: 20px;
+    background-color: rgba(255, 192, 203, 0.284);;
+    margin-top: 70px;
+    color: rgba(164, 27, 50, 0.493);
+    font-size: 14px;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding: 7px;
+}
+
+h1.check{
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+
+b.recent{
+    text-align: center;
+    color: red;
+    font-family: sans-serif;
+}
+
+h3.contribute{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.h4:hover:hover{
+    background-color: rgba(194, 13, 43, 0.576);
+    
+}
+
+.h3:hover:hover{
+    background-color: rgba(194, 13, 43, 0.576);
+    
+}
+
+.h2:hover:hover{
+    background-color: rgba(194, 13, 43, 0.576);
+    
+}gn
+
+.h1:hover:hover{
+    background-color: rgba(194, 13, 43, 0.576);
+    
+}
+
+
+
+
+ 
+    
+h4.h1{
+    position: relative;
+    left: 500px;
+    border: 2px none rgba(255, 192, 203, 0.644);
+    width: 35px;
+    border-radius: 20px;
+    background-color: rgba(194, 13, 43, 0.576);
+    color:  #444444;
+    padding: 3px ;
+    margin: 3px 4px 2px 0px;
+    cursor: pointer; 
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+
+    
+   
+
+}
+
+h4.h2{
+    position: relative;
+    left: 560px;
+    bottom: 26px;
+    border: 2px none rgba(255, 192, 203, 0.644);
+    width: 65px;
+    border-radius: 20px;
+    background-color: rgba(255, 192, 203, 0.284);
+    color:  #444444;
+    padding: 3px ;
+    margin: 3px 4px 2px 0px;
+    cursor: pointer; 
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    
+    
+
+
+}
+h4.h3{
+    position: relative;
+    left: 650px;
+    bottom: 52px;
+    border: 2px none rgba(255, 192, 203, 0.644);
+    width: 65px;
+    border-radius: 20px;
+    background-color: rgba(255, 192, 203, 0.284);
+    color:  #444444;
+    padding: 3px ;
+    margin: 3px 4px 2px 0px;
+    cursor: pointer; 
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    
+
+}
+
+h4.h4{
+    position: relative;
+    left: 740px;
+    bottom: 78px;
+    border: 2px none rgba(255, 192, 203, 0.644);
+    width: 65px;
+    border-radius: 20px;
+    background-color: rgba(255, 192, 203, 0.284);
+    color:  #444444;
+    padding: 3px ;
+    margin: 3px 4px 2px 0px;
+    cursor: pointer; 
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    
+}
+
+div.image2{
+    position: relative;
+    left: 100px;
+    overflow: hidden;
+}
+
+.portfolio1,.portfolio2,.portfolio3,.portfolio4,.portfolio5,.portfolio6,.portfolio7,.portfolio8,.portfolio9{
+    position: relative;
+    width: 350px;
+}
+
+.overlay1,.overlay2,.overlay3,.overlay4,.overlay5,.overlay6,.overlay7,.overlay8,.overlay9{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #ea6981;
+    overflow: hidden;
+    height: 0;
+    transition: .5s ease;
+ 
+}
+.portfolio1:hover .overlay1,.portfolio2:hover .overlay2,.portfolio3:hover .overlay3,.portfolio4:hover .overlay4,.portfolio5:hover .overlay5,.portfolio6:hover .overlay6,.portfolio7:hover .overlay7,.portfolio8:hover .overlay8,.portfolio9:hover .overlay9{
+    height: 40%;
+}
+
+.eye{
+    position: absolute;
+    left: 260px;
+    top: 30px;
+    color: white;
+    
+}
+.chain{
+    position: absolute;
+    left: 310px;
+    top: 30px;
+    color: white;
+
+}
+
+h3,h4{
+    margin-left:30px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+
+div.portfolio2{
+    position: relative;
+    left: 400px;
+    bottom: 250px;
+    overflow: hidden;
+}
+/* .overlay2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #ea6981;
+    overflow: hidden;
+    height: 0;
+    transition: .5s ease;
+
+}
+.portfolio2:hover .overlay2{
+    height: 40%;
+    width: 350px;
+    overflow: hidden;
+} */
+
+div.portfolio3{
+    position: relative;
+    left: 800px;
+    bottom: 500px;
+    overflow: hidden;
+
+}
+
+div.portfolio4{
+    position: relative;
+    bottom: 500px;
+    margin-top: 40px;
+    overflow: hidden;
+    
+}
+
+div.portfolio5{
+    position: relative;
+    bottom: 750px;
+    left: 400px;
+    overflow: hidden;
+    
+}
+
+div.portfolio6{
+    position: relative;
+    bottom: 1000px;
+    left: 800px;
+    overflow: hidden;
+    
+}
+div.portfolio7{
+    position: relative;
+    bottom: 1000px;
+    margin-top: 40px;
+    overflow: hidden;
+}
+
+div.portfolio8{
+    position: relative;
+    bottom: 1250px;
+    left: 400px;
+    overflow: hidden;
+}
+
+div.portfolio9{
+    position: relative;
+    bottom: 1500px;
+    left: 800px;
+    overflow: hidden;
+    
+}
+
+h2.tact{
+    position: relative;
+    border: 1px none black;
+    text-align: center;
+    width: 100px;
+    left: 600px;
+    border-radius: 20px;
+    font-size: 17px;
+    padding: 5px;
+    color: rgba(164, 27, 50, 0.493);
+    background-color: rgba(255, 192, 203, 0.284);
+    margin-bottom: 30px;
+    font-weight: 500;
+
+    
+}
+
+h1.act{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+b.us{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: red;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+
+/* div.Lekki{
+    margin-left: 100px;
+} */
+
+h3.marker{
+    margin-left: 150px;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #444444;
+    position: relative;
+    top: 10px;
+    
+    
+    
+    
+}
+p.lagos{
+    margin-left: 165px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #444444;
+    position: relative;
+    right: 16px;
+    bottom: 8px;
+
+}
+
+h3#map{
+    border: 1px solid black;
+    margin-top: 100px;
+    
+    
+}
+
+div.all-contact{
+    position: relative;
+    bottom: 1400px;
+    overflow: hidden;
+}
+
+i#fa1{
+    position: relative;
+    top: 75px;
+    font-size: 25px;
+    left: 105px;
+    color: rgb(237, 19, 55);
+    border: 1px none black;
+    padding: 7px;
+    border-radius: 30px;
+    background-color: rgba(255, 192, 203, 0.56);
+    
+}
+
+h3.emai{
+    margin-left: 150px;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #444444;
+    position: relative;
+    bottom: 65px;
+    margin-top: 50px;
+
+}
+
+i#fa2{
+    position: relative;
+    top: 30px;
+    font-size: 25px;
+    left: 105px;
+    color: rgb(237, 19, 55);
+    border: 1px none black;
+    padding: 7px;
+    border-radius: 30px;
+    background-color: rgba(255, 192, 203, 0.56);
+    
+}
+
+p.owo{
+    margin-left: 165px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #444444;
+    position: relative;
+    right: 16px;
+    bottom: 85px;
+    margin-bottom: 40px;
+}
+
+i#fa3{
+    position: relative;
+    bottom: 70px;
+    font-size: 25px;
+    left: 105px;
+    color: rgb(237, 19, 55);
+    border: 1px none black;
+    padding: 7px;
+    border-radius: 30px;
+    background-color: rgba(255, 192, 203, 0.56);
+
+    
+
+}
+
+h3.ca{
+    margin-left: 150px;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #444444;
+    position: relative;
+    bottom: 140px;
+    margin-top: 30px;
+}
+
+p.ku{
+    margin-left: 165px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #444444;
+    position: relative;
+    right: 16px;
+    bottom: 165px;
+
+}
+
+
+i#fa1:hover:hover{
+    background-color: rgba(194, 13, 43, 0.888);
+    
+}
+
+i#fa2:hover:hover{
+    background-color: rgba(194, 13, 43, 0.888);
+    
+}
+
+i#fa3:hover:hover{
+    background-color: rgba(194, 13, 43, 0.888);
+    
+}
+
+div.row{
+    border: 1px none blue;
+    position: relative;
+    bottom: 1850px;
+    width: 70%;
+    left: 400px;
+    box-sizing: border-box;
+    
+
+}
+input[type=text],textarea, subject{
+    padding: 10px;
+    width: 85%;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+div.col1{
+    display: inline-flex;
+    width: 50%;
+    
+
+}
+.col2{
+    position: relative;
+    left: 400px;
+    width: 50%;
+    bottom: 100px;
+
+}
+.col3{
+    position: relative;
+    bottom: 120px;
+    margin-top: 10px;
+}
+
+.col4{
+    position: relative;
+    bottom: 150px;
+    margin-top: 20px;
+}
+
+div.map1{
+    margin: 0 110px 0 110px;
+}
+
+
+
+.submit{
+    background-color: rgba(194, 13, 43, 0.888) ;
+    padding: 15px;
+    border-radius: 5px;
+    border-color: none;
+    color: white;
+    border-radius: 30px;
+    font-size: 15px;
+    font-family: sans-serif;
+    position: relative;
+    bottom: 2000px;
+    left: 780px;
+    font-weight: 500px;
+    border: none;
+}
+
+i#arrow{
+    position: relative;
+    left: 750px;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 40px;
+    background-color:rgba(194, 13, 43, 0.888) ;
+    color: white;
+    font-size: 22px; 
+    top: 15px;
+    
+    
+    
+    
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+i#instagram{
+    position: relative;
+    left: 700px;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 40px;
+    background-color:rgba(194, 13, 43, 0.888) ;
+    color: white;
+    font-size: 22px;
+    top: 15px;
+    flex: auto;
+
+}
+
+i#headphone{
+    position: relative;
+    left: 700px;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 40px;
+    background-color:rgba(194, 13, 43, 0.888) ;
+    color: white;
+    font-size: 22px;
+    top: 15px;
+
+}
+
+i#facebook{
+    position: relative;
+    left: 700px;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 40px;
+    background-color:rgba(194, 13, 43, 0.888) ;
+    color: white;
+    font-size: 22px;
+    top: 15px;
+}
+
+i#twitter{
+    position: relative;
+    left: 700px;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 40px;
+    background-color:rgba(194, 13, 43, 0.888) ;
+    color: white;
+    font-size: 22px;
+    top: 15px;
+}
+
+footer{
+    position: relative;
+    bottom: 1900px;
+    border: 1px none red;
+    height: 80px;
+    background-color: #f6f4f4;
+    overflow: hidden;
+
+}
+
+span{
+    position: relative;
+    top: 10px;
+    left: 50px;
+}
+
+i#twitter:hover{
+    background-color:pink ;
+}
+
+i#facebook:hover{
+    background-color:pink ;
+}
+
+i#headphone:hover{
+    background-color:pink ;
+}
+
+i#instagram:hover{
+    background-color:pink ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
